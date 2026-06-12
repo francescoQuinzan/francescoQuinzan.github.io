@@ -1,6 +1,6 @@
 I am a Senior Research Associate at the University of Oxford, where I lead a research project on reliable machine learning supported by the [Oxford Martin School](https://www.oxfordmartin.ox.ac.uk/), with a concurrent affiliation at the [Centre for Human-Inspired AI](https://www.chia.cam.ac.uk/), University of Cambridge.
 
-My research develops principled methods to *understand and evaluate how foundation models evolve under feedback and adaptation*. My work has appeared at NeurIPS, ICML, AISTATS, and TMLR, and spans collaborations with researchers at ETH Zurich, MIT, LSE, and TU Munich, as well as industry partners including Apple and IBM.
+My research develops principled methods to *understand and evaluate how foundation models evolve under feedback and adaptation*. My work has appeared at NeurIPS, ICML, AISTATS, and TMLR, and spans collaborations with researchers at ETH Zurich, MIT, LSE, and TU Munich, as well as industry partners including IBM.
 
 This work has been made possible by competitive funding and awards from [UKRI](https://www.ukri.org/) as well as the [European Lighthouse on Secure and Safe AI](https://elsa-ai.eu/) (ELSA), [COST](https://www.cost.eu/), and [HCHE](https://www.hche.uni-hamburg.de/).
 
