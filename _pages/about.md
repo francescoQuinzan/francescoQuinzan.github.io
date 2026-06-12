@@ -6,4 +6,4 @@ This work has been made possible by competitive funding and awards from [UKRI](h
 
 I serve as Program Chair for NeurIPS 2026 and I am the lead organiser of the [ELLIS Workshop on LLM Post-Training](https://jdixon-2.github.io/WorkshopSite/), co-located with NeurIPS 2026. I have given invited talks at Stanford, Harvard, ETH Zurich, the Max Planck Institute for Intelligent Systems, and the Vector Institute, among others.
 
-I supervise a team of 8+ students and have supervised or co-supervised more than 20 Ph.D. and M.Sc. students across Oxford, Cambridge, MIT, MILA, and KTH.
+I supervise a team of 8+ students and have supervised or co-supervised more than 20 Ph.D. and M.Sc. students students across leading institutions, including Oxford, Cambridge, MIT, MILA, and KTH.
