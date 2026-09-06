@@ -1,7 +1,7 @@
 ---
 title: "Machine Learning"
 collection: teaching
-type: "Undergraduate course, Lecturer & Marker"
+type: "Undergraduate course"
 permalink: /teaching/2025-machine-learning
 venue: "University of Oxford"
 date: 2025-04-01
